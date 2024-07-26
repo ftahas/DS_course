@@ -1,1 +1,1 @@
-# DS_course
+### Jupyter notebooks for data science course.
