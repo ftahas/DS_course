@@ -1,1 +1,1 @@
-# DS_course
+# ML_course
